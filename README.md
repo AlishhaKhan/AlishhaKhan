@@ -82,5 +82,9 @@
 
 ## GitHub Contribution Activity
 
-![Snake animation](https://github.com/alishhaKhan/alishhaKhan/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alishhaKhan/alishhaKhan/raw/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution calendar snake" src="https://github.com/alishhaKhan/alishhaKhan/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
