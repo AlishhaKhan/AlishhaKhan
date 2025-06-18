@@ -82,6 +82,5 @@
 
 ## GitHub Contribution Activity
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=alishhaKhan&theme=darkhub&margin-w=10&no-bg=true&no-frame=true)
+![Snake animation](https://github.com/alishhaKhan/alishhaKhan/blob/output/github-contribution-grid-snake.svg)
 
