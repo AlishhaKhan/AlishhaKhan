@@ -17,7 +17,7 @@
 -  Learning **Agentic AI systems** with <strong>OpenAI SDKs</strong>  
 -  Built **30+ real-world projects**, including 2 hackathons & a resume builder  
 -  <strong>Tech Stack:</strong> HTML, CSS, JS, React, Tailwind, Python, Streamlit, TypeScript
--  
+  
 </p>
   
 
@@ -82,8 +82,6 @@
 
 ## GitHub Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishhaKhan&theme=blueberry&hide_border=true&area=true&custom_title=Alisha%20Khan's%20Contribution%20Graph" alt="Alisha Khan's GitHub Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alishhaKhan&theme=github-compact&color=0a6cf1&point=14B8A6&hide_border=true)
 
 
