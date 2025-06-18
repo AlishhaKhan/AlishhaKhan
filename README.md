@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=14B8A6&center=true&vCenter=true&width=450&lines=Alisha+Khan" alt="Typing animation showing Alisha Khan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0F766E&center=true&vCenter=true&width=450&lines=Alisha+Khan" alt="Typing animation showing Alisha Khan" />
 </h1>
 
+
 <p align="center">
-  
   <strong>Web Developer</strong> | <strong>AI Agent Enthusiast</strong> <br />
   I build clean, modern & interactive apps using latest web & AI technologies.
-  
 </p>
 
 ---
@@ -54,7 +53,8 @@
   
 ### GitHub Stats
 ![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishhaKhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishhaKhan&langs_count=5&layout=compact&theme=tokyonight&hide=other)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishhaKhan&langs_count=5&layout=compact&theme=tokyonight&hide=Shell,Dockerfile,Makefile,PowerShell,Batchfile)
+
 
 </p>
 
