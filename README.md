@@ -82,6 +82,10 @@
 
 ## GitHub Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alishhaKhan&theme=github-compact&color=0a6cf1&point=14B8A6&hide_border=true)
 
+![GitHub contribution calendar](https://github.com/alishhaKhan/alishhaKhan/raw/output/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alishhaKhan&theme=tokyonight&ring=14B8A6&fire=0a6cf1&currStreakLabel=14B8A6)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=alishhaKhan&theme=darkhub&margin-w=10&no-bg=true&no-frame=true)
 
