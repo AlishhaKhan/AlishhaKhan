@@ -54,7 +54,8 @@
   
 ### GitHub Stats
 ![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishhaKhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishhaKhan&langs_count=5&layout=compact&theme=tokyonight&hide=Shell,Dockerfile,Makefile,PowerShell,Batchfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishhaKhan&langs_count=5&layout=compact&theme=tokyonight&hide=scss,less,shell,dockerfile,makefile,batchfile,jupyter%20notebook,other)
+
 
 
 </p>
