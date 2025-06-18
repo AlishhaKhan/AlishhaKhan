@@ -3,17 +3,21 @@
 </h1>
 
 <p align="center">
-  <strong>Web Developer</strong> | <strong>Python & AI Enthusiast</strong> <br />
+  <strong>Web Developer</strong> | <strong>AI Agent Enthusiast</strong> <br />
   I build clean, modern & interactive apps using latest web & AI technologies.
 </p>
 
 ---
 
+<p align="center">
 -  Currently working on **AI-powered tools** using <strong>Streamlit</strong> & <strong>Next.js</strong>  
 -  Learning **Agentic AI systems** with <strong>OpenAI SDKs</strong>  
 -  Built **30+ real-world projects**, including 2 hackathons & a resume builder  
 -  <strong>Tech Stack:</strong> HTML, CSS, JS, React, Tailwind, Python, Streamlit, TypeScript
+</p>
+  
 
+<p align="center">
   ### Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -38,11 +42,30 @@
 ![Pydantic](https://img.shields.io/badge/-Pydantic-18181B?style=flat&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/-Chainlit-6E56CF?style=flat&logo=chainlink&logoColor=white)
+</p>
 
+<p align="center">
+### GitHub Stats
+![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishhaKhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishhaKhan&langs_count=5&layout=compact&theme=tokyonight&hide=other)
+</p>
 
-### 📊 GitHub Stats
-![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisha-khan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisha-khan&langs_count=5&layout=compact&theme=tokyonight&hide=other)
+<p align="center">
+## 📬 Let's Connect!
 
+<p align="center">
+  <a href="https://linkedin.com/in/alisha-khan-7353ab35a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/yourTwitterID" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23111111.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:alishakhan8627@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/alishhaKhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-📫 <strong>Connect with me:</strong> [LinkedIn](https://linkedin.com/in/alisha-khan-7353ab35a) 
+</p>
