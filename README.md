@@ -1,16 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Alisha+Khan+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=14B8A6&center=true&vCenter=true&width=450&lines=Alisha+Khan" alt="Typing animation showing Alisha Khan" />
 </h1>
 
 <p align="center">
-  I'm a passionate <strong>Web Developer</strong> and <strong>Python enthusiast</strong> who builds clean, modern, and interactive web apps.
+  <strong>Web Developer</strong> ⚡ | <strong>Python & AI Enthusiast</strong> <br />
+  I build clean, modern & interactive apps using latest web & AI technologies.
 </p>
 
 ---
 
-- 🔭 I’m currently working on **AI-powered tools** using <strong>Streamlit & Next.js</strong>  
+- 🔭 Currently working on **AI-powered tools** using <strong>Streamlit</strong> & <strong>Next.js</strong>  
 - 🌱 Learning **Agentic AI systems** with <strong>OpenAI SDKs</strong>  
-- 🚀 Building **30+ projects** across frontend and backend  
+- 🚀 Built **30+ real-world projects**, including 2 hackathons & a resume builder  
 - 🛠️ <strong>Tech Stack:</strong> HTML, CSS, JS, React, Tailwind, Python, Streamlit, TypeScript
 
-📫 **Reach me at** → [LinkedIn](https://linkedin.com/in/alisha-khan-7353ab35a)
+📫 <strong>Connect with me:</strong> [LinkedIn](https://linkedin.com/in/alisha-khan-7353ab35a)
