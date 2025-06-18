@@ -82,12 +82,7 @@
 
 ## GitHub Contribution Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlishhaKhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![AlishhaKhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlishhaKhan&bg_color=0d1117&color=14B8A6&line=A78BFA&point=7DD3FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-![AlishhaKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishhaKhan&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-[![AlishhaKhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlishhaKhan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
