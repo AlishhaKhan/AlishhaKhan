@@ -85,4 +85,11 @@
 [![AlishhaKhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlishhaKhan&bg_color=0d1117&color=14B8A6&line=A78BFA&point=7DD3FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alishhaKhan&theme=github-compact&color=0a6cf1&point=14B8A6&hide_border=true)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishhaKhan&theme=react-dark&hide_border=true&area=true" alt="Alisha Khan's GitHub Activity Graph" />
+</p>
+
 
