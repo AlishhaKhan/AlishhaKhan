@@ -82,10 +82,12 @@
 
 ## GitHub Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alishhaKhan/alishhaKhan/raw/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contributions snake" src="https://github.com/alishhaKhan/alishhaKhan/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlishhaKhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+![AlishhaKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishhaKhan&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+[![AlishhaKhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlishhaKhan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
