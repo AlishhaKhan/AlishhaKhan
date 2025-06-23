@@ -74,7 +74,7 @@
   <a href="mailto:alishakhan8627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/alishhaKhan" target="_blank">
+  <a href="https://github.com/AlishhaKhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
