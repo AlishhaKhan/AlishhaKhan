@@ -65,7 +65,7 @@
 ## Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/alisha-khan-7353ab35a" target="_blank">
+  <a href="https://linkedin.com/in/alishha-khan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/yourTwitterID" target="_blank">
