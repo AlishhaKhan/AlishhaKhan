@@ -5,19 +5,15 @@
 
 
 <p align="center">
-  <strong>Web Developer</strong> | <strong>AI Agent Enthusiast</strong> <br />
-  I build clean, modern & interactive apps using latest web & AI technologies.
+  <strong>Aspiring Data Analyst | AI/ML Learner | Building intelligent & data-driven solutions</strong>
 </p>
 
 ---
 
 <p align="center">
   
--  Currently working on **AI-powered tools** using <strong>Streamlit</strong> & <strong>Next.js</strong>  
--  Learning **Agentic AI systems** with <strong>OpenAI SDKs</strong>  
--  Built **30+ real-world projects**, including 2 hackathons & a resume builder  
--  <strong>Tech Stack:</strong> HTML, CSS, JS, React, Tailwind, Python, Streamlit, TypeScript
-  
+- Built multiple hands-on projects in AI, Streamlit, web development & automation.
+    
 </p>
   
 
@@ -26,26 +22,12 @@
   ### Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-000?style=flat&logo=api&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Sanity](https://img.shields.io/badge/-Sanity-FF2D20?style=flat&logo=sanity&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-18181B?style=flat&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/-Chainlit-6E56CF?style=flat&logo=chainlink&logoColor=white)
   
 </p>
@@ -67,9 +49,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/alishha-khan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/yourTwitterID" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23111111.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:alishakhan8627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
