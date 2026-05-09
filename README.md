@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0F766E&center=true&vCenter=true&width=450&lines=Alisha+Khan" alt="Typing animation showing Alisha Khan" />
 </h1>
 
-
-
 <p align="center">
   <strong>Aspiring Data Analyst | AI/ML Learner | Building intelligent & data-driven solutions</strong>
 </p>
@@ -11,11 +9,14 @@
 ---
 
 <p align="center">
-  
-- Built multiple hands-on projects in AI, Streamlit, web development & automation.
+
+   ### About
+
+       I’m currently learning ML, SQL, MS Azure.  
+       Built multiple hands-on projects in AI, Streamlit, web development & automation.
     
 </p>
-  
+
 
 <p align="center">
   
