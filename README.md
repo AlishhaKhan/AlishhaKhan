@@ -16,15 +16,14 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
 - Currently learning **Machine Learning, SQL, and Microsoft Azure**
 - Building projects in **AI, Streamlit, and Web Development**
 - Focused on **real-world data problems and intelligent automation systems**
 - Strong interest in **deep learning, NLP, and model deployment**
 
-📄 **Resume / CV:**  
-[Click here to view my CV](https://drive.google.com/file/d/1K0I6JJ_LMVgoQnMUDs8e1WCjbmm0R2Hm/view?usp=sharing)
+📄  [Click here to view my Resume](https://drive.google.com/file/d/1K0I6JJ_LMVgoQnMUDs8e1WCjbmm0R2Hm/view?usp=sharing)
 ---
 
 ## ⚙️ Tech Stack
