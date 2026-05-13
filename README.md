@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alisha%20Khan&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlign=50&descAlignY=58&fontSize=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Alisha%20Khan&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlign=50&descAlignY=58&fontSize=55" />
 </h1>
 
 <p align="center">
@@ -7,8 +7,6 @@
 </p>
 
 ---
-
-## 📊 Profile Insights
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlishhaKhan-Official&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -26,8 +24,7 @@
 - Strong interest in **deep learning, NLP, and model deployment**
 
 📄 **Resume / CV:**  
-👉 [Click here to view my CV](https://drive.google.com/file/d/1zjaeq2r3iSCVFaPJ1tQ-hNXxTwsbjKoE/view)
-
+[Click here to view my CV](https://drive.google.com/file/d/1K0I6JJ_LMVgoQnMUDs8e1WCjbmm0R2Hm/view?usp=sharing)
 ---
 
 ## ⚙️ Tech Stack
@@ -35,6 +32,8 @@
 ### 👩‍💻 Languages & Web Basics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
