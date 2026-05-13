@@ -26,7 +26,7 @@
 📄  [Click here to view my Resume](https://drive.google.com/file/d/1K0I6JJ_LMVgoQnMUDs8e1WCjbmm0R2Hm/view?usp=sharing)
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### 👩‍💻 Languages & Web Basics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -58,12 +58,10 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - 📊 **Sales Dashboard (Streamlit)** – interactive business analytics system  
-- 🤖 **AI Assistant (OpenAI SDK)** – agent-based intelligent assistant  
-- 🌸 **Ahsilay Perfume Website** – brand identity + web presence project  
-
+- 🤖 **AI Assistant (OpenAI SDK)** – agent-based intelligent assistant
 ---
 
 ## 📈 GitHub Stats
