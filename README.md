@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Alisha%20Khan&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlign=50&descAlignY=58&fontSize=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Alisha%20Khan&fontAlign=50&fontAlignY=38&desc=Data%20Explorer%20%7%20AI%20%7C%20ML%20Learner%20%7C%20&descAlign=50&descAlignY=58&fontSize=55" />
 </h1>
 
 <p align="center">
-  <b>Aspiring AI/ML Engineer | Data Analyst | Building Intelligent Systems & Real-World Applications</b>
+  <b>Data Analyst | AI/ML Learner |Building Intelligent Systems & Real-World Applications</b>
 </p>
 
 ---
