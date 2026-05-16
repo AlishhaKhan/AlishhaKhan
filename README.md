@@ -23,7 +23,7 @@
 - Focused on **real-world data problems and intelligent automation systems**
 - Strong interest in **deep learning, NLP, and model deployment**
 
-📄  [Click here to view my Resume](https://drive.google.com/file/d/1K0I6JJ_LMVgoQnMUDs8e1WCjbmm0R2Hm/view?usp=sharing)
+📄  **[View My Resume](https://drive.google.com/file/d/1BemF6I0fj-FNEw1vpY4VROwt3bRx7Idn/view?usp=sharing)**
 ---
 
 ## Tech Stack
